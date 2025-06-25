@@ -8,8 +8,8 @@ Este proyecto levanta una base de datos MongoDB con un contenedor Docker, carga 
 - Docker
 - MongoDB
 - Java SE (con MongoDB Java Driver)
-Esta entrega contiene 5 archivos adjuntos, 3 carpetas, 1 documento PDF sobre el proyecto y este readme.txt.
-
+  
+## Esta entrega contiene 5 archivos adjuntos, 3 carpetas, 1 documento PDF sobre el proyecto y este readme.txt.
 ## Las carpetas contienen:
 
 	1. INIT, esta carpeta contiene los script para levantar el contenedor junto a la base de datos, además incluye 5 inserciones por Colección. Para seguir los pasos necesarios, se recomienda acudir al punto 3.1 Consideraciones Clave. También se recomienda, visualizar antes el punto 2.1 Requisitos.
